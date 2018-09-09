@@ -1,0 +1,1 @@
+/home/gunter/GM_LANGUAGES/Functional_Languages/LISP_Dialects/German_Lisp_Books_Code/Christian-M.Hamann-Einfuehrung.in.das.Programmieren.in.Lips-2te.Aufl/Interpreter/lispf4  /home/gunter/GM_LANGUAGES/Functional_Languages/LISP_Dialects/German_Lisp_Books_Code/Christian-M.Hamann-Einfuehrung.in.das.Programmieren.in.Lips-2te.Aufl/Interpreter/BASIC.IMG
